@@ -9,8 +9,8 @@ full_description        : >
   Welcome to My Blog
 gh_repository           : https://github.com/SSAFYJUNGSJ/ssafyjungsj.github.io
 encoding                : "utf-8"
-locale                  : "en-US"
-lang                    : "en"
+locale                  : "ko_KR"
+lang                    : "ko"
 formemail               : xwkglaqr
 permalink               : pretty
 date                    : 2024-03-24 11:10:45 +0200
