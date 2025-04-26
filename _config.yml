@@ -1,12 +1,11 @@
 landing                 : false
-title                   : A Bootstrap 5 theme
+title                   : kor0peration Blog
 author                  : Carles Loriente
 url                     : "https://bootstrap-theme.notesoncloudcomputing.com"
 baseurl                 : "/"
-timezone                : "Europe/Madrid"
-description             : A responsive Bootstrap 5 dual theme
-full_description        : >
- A responsive dual theme for Bootstrap 5 created by Carles Loriente. Featuring a homepage, about page, tags cloud page, gallery of images page, examples post pages, post comments powered by Disqus, and contact page form powered by Formspree.
+timezone                : "Asia/Seoul"
+description             : Hello Jekyll Blog.
+full_description        : false
 gh_repository           : https://github.com/carlesloriente/bootstrap-theme-jekyll/
 encoding                : "utf-8"
 locale                  : "en-US"
