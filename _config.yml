@@ -7,7 +7,7 @@ timezone                : "Asia/Seoul"
 description             : Hello Jekyll Blog.
 full_description        : >
   Welcome to My Blog
-gh_repository           : https://github.com/SSAFYJUNGSJ/ssafyjungsj.github.io
+gh_repository           : https://github.com/carlesloriente/bootstrap-theme-jekyll/
 encoding                : "utf-8"
 locale                  : "ko_KR"
 lang                    : "ko"
