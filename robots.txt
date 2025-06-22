@@ -1,2 +1,2 @@
-Sitemap: https://bootstrap-theme.notesoncloudcomputing.com/sitemap.xml
-
+User-agent: Googlebot
+Sitemap: https://ssafyjungsj.github.io/sitemap.xml
